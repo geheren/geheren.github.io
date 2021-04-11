@@ -1,56 +1,83 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Michael Geheren",
+    "label": "Journalist. Storyteller. Content Strategist. Project Manager (CAPM)",
+    "picture": "https://geheren.github.io/images/geheren.jpeg",
+    "email": "geheren@hey.com",
+    "phone": "224-406-4609",
+    "website": "https://michaelgeheren.com",
+    "summary": "Michael Geheren is a national digital and TV news producer looking to pivot into product marketing to tell stories and drive results. With seven years of creating content, he brings experience in writing, video and podcasts. Geheren leads a team of five producers, managing daily content strategy and training at the nation's largest TV station group. He also collaborated on the cross-functional WordPress learning solutions project launch.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "60618",
+      "city": "Chicago",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Illinois"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "geheren",
+        "url": "http://github.com/geheren"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "geheren",
+        "url": "http://linkedin.com/in/geheren"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "mgeheren",
+        "url": "http://twitter.com/mgeheren"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "mgeheren",
+        "url": "http://instagram.com/mgeheren"
+      },
+      {
+        "network": "wordpress",
+        "username": "geheren",
+        "url": "http://profiles.wordpress.org/geheren/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "journalism",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "writing",
+        "storytelling",
+        "video",
+        "audio",
+        "broadcast",
+        "digital"
       ]
     },
     {
-      "name": "data mining",
+      "name": "digital strategy",
       "keywords": [
+        "Search Engine Optimization (SEO)",
+        "Social Media",
+        "editorial strategy",
+        "analytics",
+        "Social Media Marketing",
+        "Audience Strategy"
       ]
     },
     {
+      "name": "project management",
+      "keywords": [
+        "agile",
+        "waterfall"
+      ]
+    },
+     {
+      "name": "artificial intelligence",
+      "keywords": [
+      ]
+    },
+     {
       "name": "artificial intelligence",
       "keywords": [
       ]
